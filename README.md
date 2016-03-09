@@ -74,8 +74,8 @@ HackCampの主催および運営するイベントにおける参加者による
 株式会社HackCamp  
 事務局 info@hackcamp.jp  
 
-作成日：2016/03/02  
-最終更新日：2016/03/03 (Version 1.1)  
+作成日：2016/03/10  
+最終更新日：2016/03/03 (Version 1.2)  
 
 <a name="1">1</a>: 山形浩生氏による詳しい解説が http://cruel.org/freeware/hack.html にあります。
 
